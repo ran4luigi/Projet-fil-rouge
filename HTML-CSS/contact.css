@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* ----------------------------------------- */
+  .form-style {
+    margin:10px auto;
+    width: 400px;
+    padding: 20px 12px 10px 20px;
+    font: 14px
+  }
+  /* ----------------------------------------- */
+  .form-style td {
+    padding: 0;
+    display: block;
+    list-style: none;
+    margin: 10px 0 0 0;
+  }
+  /* ----------------------------------------- */
+  .form-style label{
+    margin:0 0 3px 0;
+    padding:0px;
+    display:block;
+    font-weight: bold;
+  }
+  /* ----------------------------------------- */
+  .form-style .required{
+    color:red;
+  }
+  /* ----------------------------------------- */
+  .form-style input[type=submit], .form-style input[type=reset]{
+    background-color: #4eb5f1;
+    padding: 8px 15px 8px 15px;
+    border: none;
+    border: solid black;
+  }
+  /* ----------------------------------------- */
+  .form-style input[type=submit]:hover, .form-style input[type=reset]:hover{
+    background: #4eb5f1;
+    box-shadow:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+  }
+  /* ----------------------------------------- */
+  .form-style .field-textarea{
+    height: 100px;
+  }
+  /* ----------------------------------------- */
+  .form-style input[type=text], 
+  .form-style input[type=email],
+  textarea{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border:1px solid black;
+    padding: 7px;
+    margin:0px;
+  }
+  /* ----------------------------------------- */
+  .form-style .long{
+    width: 100%;
+  }
+/* ----------------------------------------- */
+  #h1{
+    text-align: center;
+  }
+/* ----------------------------------------- */
+  .footer{
+    margin: 14px;
+    width: auto;
+    height: 140px;
+    background-color: blue;
+}
+/* ----------------------------------------- */
+.nom{
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+} 
+/* ----------------------------------------- */
+.mail{
+    color: white;
+    position: absolute;
+    bottom: 60px;
+    left: 980px;
+}
+/* ----------------------------------------- */
+.bandeau{
+    height: 140px;
+    width: auto;
+    background-color: blue;
+    margin: 14px;
+}
+/* ----------------------------------------- */
+.instagram{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 80%;
+    left: 340px;
+    bottom: 50px;
+}
+/* ----------------------------------------- */
+.twitter{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 100%;
+    left: 400px;
+    bottom: 50px;
+}
+/* ----------------------------------------- */
+#p4{
+    color: white;
+    position: absolute;
+    left: 170px;
+    bottom: 45px;
+}
+/* ----------------------------------------- */
+.logo{
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 1320px;
+  top: 45px;
+  border-radius: 100%;
+}
+/* ----------------------------------------- */
+.Lorraine{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  bottom: 20px;
+  left: 670px;
+  border-radius: 30%;
+}

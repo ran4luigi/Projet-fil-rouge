@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* ----------------------------------------- */
+.footer{
+    margin: 14px;
+    width: auto;
+    height: 140px;
+    background-color: blue;
+}
+/* ----------------------------------------- */
+.titre {
+    background-color: blue;
+    padding: 4px;
+}   
+/* ----------------------------------------- */
+.nom{
+    color: white;
+    position: absolute;
+    top: 55px;
+    left: 30px;
+} 
+/* ----------------------------------------- */
+.mail{
+    color: white;
+    position: absolute;
+    bottom: -155px;
+    left: 980px;
+}
+/* ----------------------------------------- */
+.bandeau{
+    height: 140px;
+    width: auto;
+    background-color: blue;
+    margin: 14px;
+}
+/* ----------------------------------------- */
+.instagram{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 80%;
+    bottom: -165px;
+    left: 340px;
+}
+/* ----------------------------------------- */
+.twitter{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 100%;
+    bottom: -165px;
+    left: 400px;
+}
+/* ----------------------------------------- */
+#p4{
+    color: white;
+    position: absolute;
+    bottom: -170px;
+    left: 170px;
+}
+/* ----------------------------------------- */
+.logo{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    left: 1320px;
+    top: 45px;
+    border-radius: 100%;
+}
+/* ----------------------------------------- */
+#h4{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+.quiche{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+#h5{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+.mirabelle{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+#h6{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+.bière{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+#h7{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+.paté{
+    padding: 14px;
+}
+/* ----------------------------------------- */
+.Lorraine{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    bottom: -195px;
+    left: 670px;
+    border-radius: 30%;
+}
+/* ----------------------------------------- */
+.Quiche{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 155px;
+    left: 650px;
+}
+/* ----------------------------------------- */
+.Mirabelles{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    bottom: 350px;
+    left: 650px;
+}
+/* ----------------------------------------- */
+.Bière{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    bottom: 200px;
+    left: 650px;
+}
+/* ----------------------------------------- */
+.Paté{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    bottom: 22px;
+    left: 650px;
+}

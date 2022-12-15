@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* ----------------------------------------- */
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+/* ----------------------------------------- */
+.bandeau{
+    height: 140px;
+    width: auto;
+    background-color: blue;
+    margin: 14px;
+}
+/* ----------------------------------------- */
+.menu {
+    padding: 20px;
+    position: absolute;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+}
+/* ----------------------------------------- */
+.titre {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50%;
+}
+/* ----------------------------------------- */
+.nav-links a {
+    color: white;
+    padding: 4px;
+}
+/* ----------------------------------------- */
+.logo{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    left: 1300px;
+    top: -145px;
+    border-radius: 100%;
+}    
+/* ----------------------------------------- */
+.menu .nav-links ul {
+    display: flex;
+
+}
+/* ----------------------------------------- */
+.menu .nav-links ul li {
+    margin: 20px;
+    background-color: blue;
+    font-size: medium;
+    border-radius: 50%;
+    padding: 8px;
+}
+/* ----------------------------------------- */
+.menu .nav-links ul li:hover {
+    background-color: black;
+    transition: 1s;
+}
+/* ----------------------------------------- */
+.bord {
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    margin: 20px;
+    border-color: black;
+    position: relative;
+}
+/* ----------------------------------------- */
+.footer{
+    margin: 14px;
+    width: auto;
+    height: 140px;
+    background-color: blue;
+}
+/* ----------------------------------------- */
+.nom{
+    color: white;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+} 
+/* ----------------------------------------- */
+.mail{
+    color: white;
+    position: absolute;
+    bottom: -270px;
+    left: 980px;
+}
+/* ----------------------------------------- */
+.image{
+    width: 1490px;
+    height: 720px;
+    margin: 14px;
+}
+/* ----------------------------------------- */
+.instagram{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 80%;
+    bottom: -280px;
+    left: 340px;
+}
+/* ----------------------------------------- */
+.twitter{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    border-radius: 100%;
+    left: 400px;
+    bottom: -280px;
+}
+/* ----------------------------------------- */
+#p4{
+    color: white;
+    position: absolute;
+    bottom: -270px;
+    left: 170px;
+}
+/* ----------------------------------------- */
+.menu .titre {
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
+/* ----------------------------------------- */
+.Lorraine{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    bottom: -315px;
+    left: 670px;
+    border-radius: 30%;
+}
